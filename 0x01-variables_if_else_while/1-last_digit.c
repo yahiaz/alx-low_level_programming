@@ -2,6 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
+/**
+   * main - enter point
+    * Return: 0(Success)
+     */
 
 int main(void)
 {
